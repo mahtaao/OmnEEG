@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "OmnEEG"
+abstract: "OmnEEG lets you feed multiple large and heterogeneous EEG datasets seamlessly into PyTorch models."
+type: software
+authors:
+  - family-names: Ramezanian-Panahi
+    given-names: Mahta
+    affiliation: "Mila – Québec AI Institute; University of Montreal; CHU Sainte-Justine"
+  - family-names: Rish
+    given-names: Irina
+    affiliation: "Mila – Québec AI Institute; University of Montreal"
+  - family-names: Dumas
+    given-names: Guillaume
+    affiliation: "CHU Sainte-Justine; University of Montreal; Mila – Québec AI Institute"
+repository-code: "https://github.com/mahtaao/OmnEEG"
+license: BSD-3-Clause
+version: 0.1.0
+date-released: 2026-10-19
