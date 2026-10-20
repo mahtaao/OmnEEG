@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "OmnEEG"
+title: "OmnEEG: Simple EEG tokenizer with PyTorch datasets"
 abstract: "OmnEEG lets you feed multiple large and heterogeneous EEG datasets seamlessly into PyTorch models."
 type: software
 authors:
